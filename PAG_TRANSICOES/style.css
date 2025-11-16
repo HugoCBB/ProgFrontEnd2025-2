@@ -12,6 +12,10 @@ body h2 {
     text-shadow: 3px 3px black;
 }
 
+img {
+    border-radius: 10px;
+}
+
 header {
     margin: 0;
     margin-bottom: 30px;
